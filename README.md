@@ -1,2 +1,1 @@
-# ADA_Essay_Question
-BaoVang ADA Essay Questions 
+bao copy and paste essay questions here 
